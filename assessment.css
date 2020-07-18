@@ -1,0 +1,24 @@
+body {
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto; 
+    /* 以下追加部分 */
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+button {
+    padding: 5px 20px;
+    background-color: #337ab7;
+    border-style: none;
+    color: #fdffff;
+    /* 以下追加部分 */
+    border-radius: 10px;
+}
+input {
+    height:24px;
+    /* 以下追加部分 */
+    /* background-color: #feffdc; */
+    border-radius: 10px;
+    border-style: none;
+}
