@@ -13,12 +13,12 @@ button {
     border-style: none;
     color: #fdffff;
     /* 以下追加部分 */
-    border-radius: 10px;
+    /* border-radius: 10px; */
 }
 input {
     height:24px;
     /* 以下追加部分 */
     /* background-color: #feffdc; */
-    border-radius: 10px;
+    /* border-radius: 10px; */
     border-style: none;
 }
